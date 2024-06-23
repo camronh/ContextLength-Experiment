@@ -46,6 +46,7 @@ Open the [Context_Length_AppStoreV2.ipynb](Context_Length_AppStoreV2.ipynb) note
 
 ## Results
 
-The experiment tests Gemini 1.5 Flash's performance in answering specific questions about apps as the context length increases from 50,000 to 1,000,000 tokens. 
+Gemini 1.5 performed at 100% accuracy across all context lengths tested! 
 
 **[View Test Results on LangSmith](https://smith.langchain.com/public/0f86f6ab-aaf0-4262-b38d-bed96e243a15/d)**
+
